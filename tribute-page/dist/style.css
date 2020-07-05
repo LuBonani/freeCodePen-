@@ -1,0 +1,35 @@
+#main{
+  text-align: center;
+  background-color: #F90;
+}
+#title{
+   font-size: 50px;
+}
+
+#img-div{
+  background-color: white;
+  padding: 30px;
+  margin: 30px;
+}
+#image{
+  width: 100%;
+  height: auto;
+}
+@media (max-width:500px){
+  img{
+    max-width:100%;
+    height: auto;
+  }
+}
+h2{
+  font-size: 30px;
+}
+li{
+  font-size: 20px;
+  margin: 16px 0;
+}
+
+#tribute-info{
+  margin-right: 160px;
+  margin-left: 160px;
+}

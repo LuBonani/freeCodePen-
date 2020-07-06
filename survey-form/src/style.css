@@ -1,0 +1,43 @@
+body{
+  background-color: #0B3861;
+  color: white;
+}
+header{
+   text-align: center;
+}
+#title{
+  font-size: 50px;
+}
+.input-radio, .input-checkbox{
+  display: inline-block;
+  width: 5%
+  
+}
+input, select{
+  width: 100%;
+  height: 30px;
+  margin-top: 5px;
+}
+.form-group {
+  margin: 0 auto 1.25rem auto;
+  padding: 0.25rem;
+}
+
+form {
+  background: #045FB4;
+  margin: 30px 140px ;
+  padding: 30px;
+  border-radius: 0.25rem;
+  font-size: 20px;
+}
+p{
+  margin:0 0 2px 0;
+}
+.input-textarea {
+  min-height: 180px;
+  width: 100%;
+  padding: 5px;
+  resize: vertical;
+}
+
+
